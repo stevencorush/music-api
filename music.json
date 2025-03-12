@@ -1,10 +1,10 @@
 [
   {
-    "Id": 1,
-    "Artist": "Michael Jackson",
-    "Title": "Wanna Be Startin' Somethin'",
-    "Album": "Thriller",
-    "Genre": "Pop"
+    "song.Id": 1,
+    "song.Artist": "Michael Jackson",
+    "song.Title": "Wanna Be Startin' Somethin'",
+    "song.Album": "Thriller",
+    "song.Genre": "Pop"
   },
   {
     "Id": 2,
