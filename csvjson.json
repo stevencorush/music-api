@@ -1,0 +1,716 @@
+[
+  {
+    "Artist": "Michael Jackson",
+    "Title": "Wanna Be Startin' Somethin'",
+    "Album": "Thriller",
+    "Genre": "Pop"
+  },
+  {
+    "Artist": "Michael Jackson",
+    "Title": "Baby Be Mine",
+    "Album": "Thriller",
+    "Genre": "Pop"
+  },
+  {
+    "Artist": "Michael Jackson",
+    "Title": "The Girl Is Mine",
+    "Album": "Thriller",
+    "Genre": "Pop"
+  },
+  {
+    "Artist": "Michael Jackson",
+    "Title": "Thriller",
+    "Album": "Thriller",
+    "Genre": "Pop"
+  },
+  {
+    "Artist": "Michael Jackson",
+    "Title": "Beat It",
+    "Album": "Thriller",
+    "Genre": "Pop"
+  },
+  {
+    "Artist": "Michael Jackson",
+    "Title": "Billie Jean",
+    "Album": "Thriller",
+    "Genre": "Pop"
+  },
+  {
+    "Artist": "Michael Jackson",
+    "Title": "Human Nature",
+    "Album": "Thriller",
+    "Genre": "Pop"
+  },
+  {
+    "Artist": "Michael Jackson",
+    "Title": "P.Y.T. (Pretty Young Thing)",
+    "Album": "Thriller",
+    "Genre": "Pop"
+  },
+  {
+    "Artist": "Michael Jackson",
+    "Title": "The Lady in My Life",
+    "Album": "Thriller",
+    "Genre": "Pop"
+  },
+  {
+    "Artist": "Eagles",
+    "Title": "Hotel California",
+    "Album": "Hotel California",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Eagles",
+    "Title": "New Kid in Town",
+    "Album": "Hotel California",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Eagles",
+    "Title": "Life in the Fast Lane",
+    "Album": "Hotel California",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Eagles",
+    "Title": "Wasted Time",
+    "Album": "Hotel California",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Eagles",
+    "Title": "Wasted Time (Reprise)",
+    "Album": "Hotel California",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Eagles",
+    "Title": "Victim of Love",
+    "Album": "Hotel California",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Eagles",
+    "Title": "Pretty Maids All in a Row",
+    "Album": "Hotel California",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Eagles",
+    "Title": "Try and Love Again",
+    "Album": "Hotel California",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Eagles",
+    "Title": "The Last Resort",
+    "Album": "Hotel California",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Led Zeppelin",
+    "Title": "Black Dog",
+    "Album": "Led Zeppelin IV",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Led Zeppelin",
+    "Title": "Rock and Roll",
+    "Album": "Led Zeppelin IV",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Led Zeppelin",
+    "Title": "The Battle of Evermore",
+    "Album": "Led Zeppelin IV",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Led Zeppelin",
+    "Title": "Stairway to Heaven",
+    "Album": "Led Zeppelin IV",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Led Zeppelin",
+    "Title": "Misty Mountain Hop",
+    "Album": "Led Zeppelin IV",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Led Zeppelin",
+    "Title": "Four Sticks",
+    "Album": "Led Zeppelin IV",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Led Zeppelin",
+    "Title": "Going to California",
+    "Album": "Led Zeppelin IV",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Led Zeppelin",
+    "Title": "When the Levee Breaks",
+    "Album": "Led Zeppelin IV",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "Speak to Me",
+    "Album": "The Dark Side of the Moon",
+    "Genre": "Progressive Rock"
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "Breathe",
+    "Album": "The Dark Side of the Moon",
+    "Genre": "Progressive Rock"
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "On the Run",
+    "Album": "The Dark Side of the Moon",
+    "Genre": "Progressive Rock"
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "Time",
+    "Album": "The Dark Side of the Moon",
+    "Genre": "Progressive Rock"
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "The Great Gig in the Sky",
+    "Album": "The Dark Side of the Moon",
+    "Genre": "Progressive Rock"
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "Money",
+    "Album": "The Dark Side of the Moon",
+    "Genre": "Progressive Rock"
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "Us and Them",
+    "Album": "The Dark Side of the Moon",
+    "Genre": "Progressive Rock"
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "Any Colour You Like",
+    "Album": "The Dark Side of the Moon",
+    "Genre": "Progressive Rock"
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "Brain Damage",
+    "Album": "The Dark Side of the Moon",
+    "Genre": "Progressive Rock"
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "Eclipse",
+    "Album": "The Dark Side of the Moon",
+    "Genre": "Progressive Rock"
+  },
+  {
+    "Artist": "Fleetwood Mac",
+    "Title": "Second Hand News",
+    "Album": "Rumours",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Fleetwood Mac",
+    "Title": "Dreams",
+    "Album": "Rumours",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Fleetwood Mac",
+    "Title": "Never Going Back Again",
+    "Album": "Rumours",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Fleetwood Mac",
+    "Title": "Don't Stop",
+    "Album": "Rumours",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Fleetwood Mac",
+    "Title": "Go Your Own Way",
+    "Album": "Rumours",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Fleetwood Mac",
+    "Title": "Songbird",
+    "Album": "Rumours",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Fleetwood Mac",
+    "Title": "The Chain",
+    "Album": "Rumours",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Fleetwood Mac",
+    "Title": "You Make Loving Fun",
+    "Album": "Rumours",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Fleetwood Mac",
+    "Title": "I Don't Want to Know",
+    "Album": "Rumours",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Fleetwood Mac",
+    "Title": "Oh Daddy",
+    "Album": "Rumours",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Fleetwood Mac",
+    "Title": "Gold Dust Woman",
+    "Album": "Rumours",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Come Together",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Something",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Maxwell's Silver Hammer",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Oh! Darling",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Octopus's Garden",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "I Want You (She's So Heavy)",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Here Comes the Sun",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Because",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "You Never Give Me Your Money",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Sun King",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Mean Mr. Mustard",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Polythene Pam",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "She Came in Through the Bathroom Window",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Golden Slumbers",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Carry That Weight",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "The End",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Her Majesty",
+    "Album": "Abbey Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "Born in the U.S.A.",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "Cover Me",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "Darlington County",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "Working on the Highway",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "Downbound Train",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "I'm on Fire",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "No Surrender",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "Bobby Jean",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "I'm Goin' Down",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "Glory Days",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "Dancing in the Dark",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bruce Springsteen",
+    "Title": "My Hometown",
+    "Album": "Born in the U.S.A.",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Funeral for a Friend/Love Lies Bleeding",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Candle in the Wind",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Bennie and the Jets",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Goodbye Yellow Brick Road",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "This Song Has No Title",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Grey Seal",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Jamaica Jerk-Off",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "I've Seen That Movie Too",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Sweet Painted Lady",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "The Ballad of Danny Bailey (1909-34)",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Dirty Little Girl",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "All the Girls Love Alice",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Your Sister Can't Twist (But She Can Rock 'n Roll)",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Saturday Night's Alright for Fighting",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Roy Rogers",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Social Disease",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Harmony",
+    "Album": "Goodbye Yellow Brick Road",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Whitney Houston",
+    "Title": "I Will Always Love You",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "R&B/Soul"
+  },
+  {
+    "Artist": "Whitney Houston",
+    "Title": "I Have Nothing",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "R&B/Soul"
+  },
+  {
+    "Artist": "Whitney Houston",
+    "Title": "I'm Every Woman",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "R&B/Soul"
+  },
+  {
+    "Artist": "Whitney Houston",
+    "Title": "Run to You",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "R&B/Soul"
+  },
+  {
+    "Artist": "Whitney Houston",
+    "Title": "Queen of the Night",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "R&B/Soul"
+  },
+  {
+    "Artist": "Kenny G",
+    "Title": "Theme from \"Bodyguard",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "Instrumental"
+  },
+  {
+    "Artist": "Joe Cocker",
+    "Title": "Trust in Me",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Lisa Stansfield",
+    "Title": "Someday (I'm Coming Back)",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "Pop"
+  },
+  {
+    "Artist": "Curtis Stigers",
+    "Title": "What's So Funny 'Bout Peace, Love and Understanding",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "The S.O.U.L. S.Y.S.T.E.M.",
+    "Title": "It's Gonna Be a Lovely Day",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "R&B"
+  },
+  {
+    "Artist": "Alan Silvestri",
+    "Title": "Finale",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "Instrumental"
+  },
+  {
+    "Artist": "Alan Silvestri",
+    "Title": "Theme from The Bodyguard",
+    "Album": "The Bodyguard Soundtrack",
+    "Genre": "Instrumental"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "Old Time Rock and Roll",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "Against the Wind",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "Night Moves",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "Mainstreet",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "Roll Me Away",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "You'll Accomp'ny Me",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "Hollywood Nights",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "Still the Same",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "Fire Lake",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "Like a Rock",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "The Fire Down Below",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "We've Got Tonight",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "Rock and Roll Never Forgets",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  },
+  {
+    "Artist": "Bob Seger",
+    "Title": "Turn the Page",
+    "Album": "Greatest Hits",
+    "Genre": "Rock"
+  }
+]
